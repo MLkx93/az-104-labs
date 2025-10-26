@@ -10,3 +10,9 @@ This repository contains all my hands-on labs, notes, screenshots, and troublesh
 This repo serves as both a **learning journal** and a **knowledge base**.  
 Each lab is organized in its own folder, following a consistent structure that includes objectives, key commands, configurations, and screenshots.
 
+
+## 📂 Repository Structure
+
+- **README.md** — main documentation for each lab  
+- **notes.md** — personal notes, errors, or interesting findings  
+- **screenshots/** — evidence of lab completions or key configurations  
